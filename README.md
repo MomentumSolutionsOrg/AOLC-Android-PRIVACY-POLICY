@@ -103,7 +103,3 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 **msol.dev**
 📧 Email: info@msol.dev
 🌐 Website: [https://msol.dev](https://msol.dev)
-
----
-
-⚠️ Would you like me to also **generate a Terms & Conditions document** along with this Privacy Policy? It’s usually required for apps that use accounts, notifications, and online services.
